@@ -3,7 +3,7 @@ name = "Growing With IPFS"
 
 # the name handle of the directly responsible individual for this event
 # (this person will coordinate with devent organizers)
-dri = "James Tunningley"
+dri = "James Tunningley, Protocol Labs"
 
 # the start date of the event
 date = "2022-10-30"
@@ -28,7 +28,7 @@ tags = ["Talks", "Panels", "Q&A"]
 # a description of the track.
 # will show up when the user clicks the event card.
 description = """
-  Learn about how to grow your skills and/or your project with IPFS! We'll cover contributing, building, open source grants, accelerators, funding, and more ways to get involved.
+  Learn about how to grow your skills and/or your project with IPFS! We'll cover contributing, building, open source grants, accelerators, investment, funding, and more ways to get involved.
 """
 
 # schedule is an array of timeslots objects
@@ -45,33 +45,33 @@ description = """
 # - use 15m, 20m, 30m, 45m, or 60m session slots
 # - use 15m breaks, one in the morning, one or two in the afternoon
 [[timeslots]]
-startTime="09:00"
+startTime="10:00"
 speakers=["@speaker_name", "@other_speaker_name"]
 title="Welcome standup discussion"
 description=""
 
 [[timeslots]]
 startTime="10:00"
-speakers=["James Tunningley"]
-title="Welcome Remarks"
+speakers=["James Tunningley, Protocol Labs"]
+title="Welcome to Growing with IPFS"
 description=""
 
 [[timeslots]]
 startTime="10:10"
-speakers=["Daniel Norman"]
+speakers=["Daniel Norman, Protocol Labs"]
 title="Turning your IPFS ideas into reality as a builder"
 description=""
 
 [[timeslots]]
 startTime="10:30"
-speakers=["Niki Gokani, Erin OConnor, Dawn Kelly"]
+speakers=["Erin O'Connor, Protocol Labs"]
 title="Getting started: Hackathons & Grants"
 description=""
 
 [[timeslots]]
 startTime="10:50"
-speakers=["Nandit Mehra"]
-title="Succeeding with IPFS with the Founder of Lighthouse"
+speakers=["Nandit Mehra, Lighthouse"]
+title="Succeeding with IPFS: Founder of Lighthouse"
 description=""
 
 [[timeslots]]
@@ -82,24 +82,24 @@ description=""
 
 [[timeslots]]
 startTime="11:30"
-speakers=["Ruben"]
-title="Beyond Hackathons: Making your startup a reality (Accelerators & Investment)"
+speakers=["Ruben Amenyogbo, Protocol Labs"]
+title="Beyond Hackathons: Making your startup a reality (Accelerators)"
 description=""
 
 [[timeslots]]
 startTime="11:55"
-speakers=["Lacey (moderator), Shaun Johnson (Tachyon), Carlos Silva (Faber)"]
-title="[Panel] Investing, Web3 Business Models & Failcon"
+speakers=["Lacey Wisdom (Protocol Labs), Gabriel Anderson (Co-Founder, Tachyon, ConsenSys), Carlos Silva (Partner, Faber)"]
+title="[Panel] Investing in IPFS Startups & Web3 Business Models"
 description=""
 
 [[timeslots]]
 startTime="12:30"
 speakers=[]
-title="How to get hired in the ecosystem"
-description=""
+title="How to get hired in the IPFS ecosystem"
+description="Katie Wawro (Protocol Labs)"
 
 [[timeslots]]
 startTime="12:45"
-speakers=["James Tunningley + key PL speakers, i.e. Daniel, Sonia, Erin, Ruben, Lacey, tbc talent POC"]
-title="Open Q&A (Growing with IPFS Track)"
+speakers=["Molly Mackinlay, Protocol Labs"]
+title="Open Q&A with Molly Mackinlay"
 description=""
